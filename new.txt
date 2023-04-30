@@ -1,3 +1,4 @@
-it is a
+It is a
 new
 text file.
+
